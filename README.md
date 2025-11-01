@@ -1,2 +1,2 @@
-# QuatroOpera-es
+# QuatroOperacoes
 uma calculadora
